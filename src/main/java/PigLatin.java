@@ -41,7 +41,7 @@ public class PigLatin {
 				return i;
 			} else if(sWord.charAt(i) == 'o')
 			{
-				return i
+				return i;
 			} else if(sWord.charAt(i) == 'u')
 			{
 				return i;
